@@ -19,6 +19,9 @@ Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicion
 ### Python
 ![image](https://github.com/user-attachments/assets/0ac25be0-280a-42d2-9a5b-86891d646ad0)
 
+### javaScript
+![image](https://github.com/user-attachments/assets/4693bf1f-0d64-42f4-9686-97cd193800f2)
+
 ## Autores
 * [Gui Lima] - [Desenvolvedor](https://www.instagram.com/guilhermelimadev/)
 * [Ocy] - [Desenvolvedora](https://www.instagram.com/sarah.ocy/)
