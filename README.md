@@ -14,15 +14,14 @@ Este repositório contém exemplos simples do tradicional programa "Olá, Mundo!
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicionar exemplos em outras linguagens, sinta-se à vontade para abrir um pull request.
 
+**Exemplo de um trecho de código formatado em Markdown:**
+
+### Python
+![image](https://github.com/user-attachments/assets/0ac25be0-280a-42d2-9a5b-86891d646ad0)
+
 ## Autores
 * [Gui Lima] - [Desenvolvedor](https://www.instagram.com/guilhermelimadev/)
 * [Ocy] - [Desenvolvedora](https://www.instagram.com/sarah.ocy/)
-
-
-**Exemplo de um trecho de código formatado em Markdown:**
-
-**python
-![image](https://github.com/user-attachments/assets/0ac25be0-280a-42d2-9a5b-86891d646ad0)
-
+  
 ## Licença
 Livrão!
