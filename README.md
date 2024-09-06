@@ -1,30 +1,54 @@
-# hello-world
+Hello World em várias linguagens
+Olá, Mundo! em 6 Linguagens Diferentes, Incluindo Assembly
+O tradicional "Olá, Mundo!" é um dos primeiros programas que muitos aprendizes de programação criam. Ele serve como uma introdução básica à sintaxe de uma linguagem e ao processo de execução de um programa. Vamos ver como ele se parece em algumas das linguagens mais populares, incluindo Assembly:
+Observação: O código em Assembly pode variar significativamente dependendo da arquitetura do processador e do assembler utilizado. O exemplo abaixo é uma aproximação e pode precisar de ajustes para funcionar em um sistema específico.
+Python
+Python
+print("Olá, Mundo!")
 
-# Olá, Mundo! em Várias Linguagens
+Use o código com cuidado.
+JavaScript
+JavaScript
+console.log("Olá, Mundo!");
 
-Este repositório contém exemplos simples do tradicional programa "Olá, Mundo!" implementado em diversas linguagens de programação. O objetivo é demonstrar a sintaxe básica e o funcionamento de cada linguagem.
+Use o código com cuidado.
+C++
+C++
+#include <iostream>
 
-## Linguagens Incluídas
-* **Python:** Uma linguagem interpretada de alto nível, conhecida por sua sintaxe clara e concisa.
-* **JavaScript:** A linguagem padrão para desenvolvimento web front-end, amplamente utilizada para criar interfaces interativas.
-* **C++:** Uma linguagem de programação compilada, poderosa e versátil, utilizada em uma ampla gama de aplicações.
-* **Java:** Uma linguagem orientada a objetos, robusta e portátil, amplamente utilizada em aplicações empresariais.
-* **Assembly (x86):** Uma linguagem de baixo nível que interage diretamente com o hardware, oferecendo um alto grau de controle.
+int main() {
+    std::cout << "Olá, Mundo!" << std::endl;
+    return 0;
+}
 
-## Contribuições
-Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicionar exemplos em outras linguagens, sinta-se à vontade para abrir um pull request.
+Use o código com cuidado.
+Java
+Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
 
-**Exemplo de um trecho de código formatado em Markdown:**
+Use o código com cuidado.
+Assembly (x86)
+Snippet de código
+section .data
+    msg db 'Olá, Mundo!', 0x0A
 
-### Python
-![image](https://github.com/user-attachments/assets/0ac25be0-280a-42d2-9a5b-86891d646ad0)
+section .text
+    global _start
 
-### JavaScript
-![image](https://github.com/user-attachments/assets/4693bf1f-0d64-42f4-9686-97cd193800f2)
+_start:
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, 12 ; Tamanho da mensagem
+    int 0x80
 
-## Autores
-* [Gui Lima] - [Desenvolvedor](https://www.instagram.com/guilhermelimadev/)
-* [Ocy] - [Desenvolvedora](https://www.instagram.com/sarah.ocy/)
-  
-## Licença
-Livrão!
+    mov eax, 1
+    mov ebx, 0
+    int 0x80
+
+Use o código com cuidado.
+
