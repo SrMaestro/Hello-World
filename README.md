@@ -1,6 +1,6 @@
 # Hello World em várias linguagens
 
-**Olá, Mundo! em 6 Linguagens Diferentes, Incluindo Assembl**
+**Olá, Mundo! em 6 Linguagens Diferentes, Incluindo Assembly**
 
 O tradicional "Olá, Mundo!" é um dos primeiros programas que muitos aprendizes de programação criam. Ele serve como uma introdução básica à sintaxe de uma linguagem e ao processo de execução de um programa. Vamos ver como ele se parece em algumas das linguagens mais populares, incluindo Assembly:
 
