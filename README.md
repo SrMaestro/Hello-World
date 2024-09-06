@@ -21,9 +21,8 @@ Contribuições são bem-vindas! Se você encontrar algum erro ou quiser adicion
 
 **Exemplo de um trecho de código formatado em Markdown:**
 
-```python
+**python
 ![image](https://github.com/user-attachments/assets/0ac25be0-280a-42d2-9a5b-86891d646ad0)
-```
 
 ## Licença
 Livrão!
